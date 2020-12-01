@@ -1,0 +1,29 @@
+{
+  "identity": {
+    "id": "0f5df5b4-94bb-4c15-8b98-d46370360ad2",
+    "name": "testDeployStorjeServise"
+  },
+  "object": {
+    "tags": [],
+    "documents": [],
+    "type": "Org",
+    "usage": "Department",
+    "access": "External",
+    "properties": [],
+    "history": {
+      "created": "2020-12-01T15:02:58.21",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-01T15:02:58.21",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    },
+    "alias": ""
+  },
+  "integration": {
+    "url": "https://github.com/VorobjovNikoly/test2.git",
+    "user": "hg7MU3P3qmEEEIYW4Hp80jV/ktlii6twhfbnSBLrZ0w1gmOLoTOPwblDYxKNOISVbr+I6nmHjO6tNMagu49uOpViKf6QYIn4F0SioqewVcl7zLMXzpeT87DqYgC6h8KfRY446MUvkTEtLr+gB8oLBP3/PweLzk6G/EJ1E2rMfWN6PmoA9e+EPUipDzkmMJOzneFB+w05IYzNunbGG+w7vFU+J9q9zR6vmTf3sTmSkop7NEQUw4+o1X/4skDn674M9OnNWwyl9vrQ8Uo+RALKp6TwlzbT346btur/0vrzpjP+s+lqwGKRpMhqcG7SfRnbcUvi1MVYnZlLM1ZTUn53rQ==",
+    "password": "luwz4MM5ywikKGN552S2CBEORzrfswosW5eJdG6JtbgnNGINn0P8sgGbuQn09M3m06Y+qXJlbNih6/oSgiezhQkqufEuTro8nJRJHzJZOLIBx+ShcmpZP+tlucKWXgdJq4FAp/hbHYMgufLsauER0bLInoKVqD96J5fANZEyrqIYp906ZxtvHmerSUIF7shfim90saqm/uV3pN3keXdeLZUwxRfv0hW5qu/omNcMOiOTtQtGoG5hjlp8tPFk0PAmtnDtuDsTy5eg2DO8jWG3VoTgI/JEqplpFTU63Sks7hgH1yDh9xDThnWCNhNxkqMbiWu6YFjRNpy2uCEP5RmtRQ==",
+    "integration": true,
+    "status": ""
+  }
+}
