@@ -1,0 +1,37 @@
+{
+  "identity": {
+    "id": "acba0057-82f9-4f50-a0a8-b3bfaa836d96",
+    "name": "BackendTestOrg",
+    "description": "test"
+  },
+  "object": {
+    "tags": [],
+    "documents": [],
+    "contact": {
+      "identity": {
+        "description": "test"
+      },
+      "url": "",
+      "email": ""
+    },
+    "type": "Org",
+    "usage": "Department",
+    "access": "External",
+    "properties": [],
+    "history": {
+      "created": "2020-12-01T15:23:11.03",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2020-12-01T15:23:11.03",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    },
+    "alias": ""
+  },
+  "integration": {
+    "url": "https://github.com/VorobjovNikoly/test2.git",
+    "user": "hpd5nP2JoyEl5ltwNFccQ5n5XxBIRGzo9Brnn+PIXmXGG3+Vaqr6JheGHOHT/baK4bYI2ZtdQKZ0v1epPIHxC5rr7VrO3V+pYua5yIxj38FWphKjeT9tk6YG85IdLCCx1fmo7HFXBA0T2pyJ6tEXMeGdx0B48KDAgJkkaRlBbFaDBQaKabJNMj0MBZ6cdqyRLllVS2x7TKFStEU1/zP8OOO0xEkcoCBGYl5waeBLsjMwgY1OWowlAoT1cx3HIcKxbinkzr633kO0aDwTrI4i09D9PveCYGL0hRyFwiAkPJiuGAoqOP/5+zOLQPlRXgSbodVZmjnSn2iCr0aY8b+qsw==",
+    "password": "UKNtzJUaVfw6jvbDt8a9U2fde8k4OHhffwP/iOUamLflKLX6ZT17u8gQoK5TRg9i725xFlhafZL3ZSz8uxJLZwTgnsi2HUXHjN62xVF6sMIgewg04+XAU8AUrxlS4Quz4K4OA+ObUzYz2Ax+tAQWSfXh0Uz8az8iT0Mg2BAa4i+fBC6SV0DZT9JZoCKOH3/cMYZ6vrCx3ZwsPn2M9rv7KvyoNXh8+DovQigPPsH627szD+Kunez5wGLkJ/dZZMIvrWfai1djiM1n+hKJgg8DDxdQTTGHDvSP4X7BJW8nrWbRAExDmvNebL4hB3cs5OP60P4esraO/2uKoSSi8bstbQ==",
+    "integration": true,
+    "status": ""
+  }
+}
