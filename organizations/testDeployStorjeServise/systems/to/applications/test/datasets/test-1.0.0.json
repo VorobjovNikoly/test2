@@ -21,7 +21,7 @@
     "history": {
       "created": "2020-12-09T19:05:27.897",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2020-12-09T19:07:15.733",
+      "updated": "2020-12-09T21:29:26.237",
       "updatedBy": "unknown",
       "mirrored": "2020-12-09T19:07:13.377",
       "completions": [
@@ -42,7 +42,7 @@
     "lastApprovedVersion": {
       "major": 1,
       "minor": 0,
-      "revision": 0
+      "revision": 1
     }
   },
   "external": true,
